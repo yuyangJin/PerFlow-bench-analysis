@@ -77,7 +77,7 @@
 \RequirePackage{hologo}
 
 \linespread{1.35}
-\graphicspath{{image/}{figure/}{fig/}{img/}}
+\graphicspath{{image/}{figure/}{figures/}{fig/}{img/}}
 
 % caption settings 
 \RequirePackage[labelfont={bf}]{caption}
